@@ -2,7 +2,8 @@
 
 Este repositório foi criado para demonstrar de forma prática como compartilhar um projeto desenvolvido na plataforma [Edge Impulse](https://edgeimpulse.com/)
 
-Aqui poderá compartilhar o link do projeto público, arquivos do modelo treinado, informações sobre os dados utilizados, entre outros.
+Você poderá compartilhar o link do projeto público, arquivos do modelo treinado, informações sobre os dados utilizados, etc.
+
 
 
 ## Projeto de Detecção de Objetvos - Módulo Fotovoltaícos (Aquecimento) 
