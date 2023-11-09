@@ -7,7 +7,7 @@ Você poderá compartilhar o link do projeto público, arquivos do modelo treina
 
 
 
-## Projeto de Detecção de Objetos - Aquecimento de Módulo Fotovoltaícos 
+## Projeto de Detecção de Objetos - Aquecimento de Módulo Fotovoltaícos :fire:
 
 Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
 
