@@ -22,15 +22,6 @@ Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
 (_você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens_)
 
 
-### Arquivos do projeto (_versões do modelo_):
-
-- TensorFlow Lite (float32)	
-- TensorFlow Lite (int8 quantized)		
-- TensorFlow SavedModel		
-- Keras h5 model	
-
-
-
 
 ![image](https://github.com/jpiantoniml/spainel_detection/assets/150359135/ca8b1f41-8ea1-48b4-ba28-e22e81d08d6a)
 
