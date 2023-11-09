@@ -1,10 +1,15 @@
-# Exemplo - comapartilhamento projeto Github
+# Exemplo - Compartilhamento projeto Github
+
+Este repositório foi criado para demonstrar de forma prática como compartilhar um projeto de detecção de objetos desenvolvido na plataforma Edge Impulse. 
+Aqui poderá compartilhar o link do projeto público, arquivos do modelo treinado, informações sobre os dados utilizados, entre outros.
+
 
 ## Projeto de Detecção de Objetvos - Módulo Fotovoltaícos (Aquecimento) 
 
 Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
 
-Conjunto de imagens utilizados - Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
+Conjunto de imagens utilizado - Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
+(você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens)
 
 Arquivos (Modelos) do projeto:
 
