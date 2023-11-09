@@ -18,7 +18,7 @@ Conjunto de imagens utilizado - Fonte: https://www.kaggle.com/datasets/pythonafr
 (***você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens***)
 
 
-Arquivos (Modelos) do projeto:
+Arquivos do projeto (_versões do modelo_):
 
 - TensorFlow Lite (float32)	83 KB	
 - TensorFlow Lite (int8 quantized)	55 KB	
