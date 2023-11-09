@@ -6,12 +6,18 @@ Você poderá compartilhar o link do projeto público, arquivos do modelo treina
 
 
 
-## Projeto de Detecção de Objetvos - Módulo Fotovoltaícos (Aquecimento) 
+
+## Projeto de Detecção de Objetos - Aquecimento de Módulo Fotovoltaícos 
 
 Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
 
 Conjunto de imagens utilizado - Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
-(você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens)
+(*** você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens ***)
+
+![image](https://github.com/jpiantoniml/spainel_detection/assets/150359135/07d96d7b-3021-41a2-89fa-96badaca31e7)
+
+
+
 
 Arquivos (Modelos) do projeto:
 
