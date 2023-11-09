@@ -9,7 +9,7 @@ Você poderá compartilhar o link do projeto público, arquivos do modelo treina
 
 ## Projeto de Detecção de Objetos - Aquecimento de Módulo Fotovoltaícos 
 
-### Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
+Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
 
 ![image](https://github.com/jpiantoniml/spainel_detection/assets/150359135/07d96d7b-3021-41a2-89fa-96badaca31e7)
 
