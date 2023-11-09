@@ -9,21 +9,22 @@ Você poderá compartilhar o link do projeto público, arquivos do modelo treina
 
 ## Projeto de Detecção de Objetos - Aquecimento de Módulo Fotovoltaícos 
 
-Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
+### Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/latest
 
 ![image](https://github.com/jpiantoniml/spainel_detection/assets/150359135/07d96d7b-3021-41a2-89fa-96badaca31e7)
 
 
-Conjunto de imagens utilizado - Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
+### Conjunto de imagens utilizado - Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
+
 (***você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens***)
 
 
-Arquivos do projeto (_versões do modelo_):
+### Arquivos do projeto (_versões do modelo_):
 
-- TensorFlow Lite (float32)	83 KB	
-- TensorFlow Lite (int8 quantized)	55 KB	
-- TensorFlow SavedModel	187 KB	
-- Keras h5 model	90 KB
+- TensorFlow Lite (float32)	
+- TensorFlow Lite (int8 quantized)		
+- TensorFlow SavedModel		
+- Keras h5 model	
 
 
 
