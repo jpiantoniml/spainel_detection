@@ -19,7 +19,7 @@ Projeto Público (Edge Impulse) - https://studio.edgeimpulse.com/public/305887/l
 Solar Panel Hotspot
 Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
 
-(***você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens***)
+(_você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens_)
 
 
 ### Arquivos do projeto (_versões do modelo_):
