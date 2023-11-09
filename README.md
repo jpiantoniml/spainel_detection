@@ -19,5 +19,6 @@ Arquivos (Modelos) do projeto:
 - Keras h5 model	90 KB
 
 
+Resultados:
+![image](https://github.com/jpiantoniml/spainel_detection/assets/150359135/ca8b1f41-8ea1-48b4-ba28-e22e81d08d6a)
 
-![image](https://github.com/jpiantoniml/spainel_detection/assets/150359135/2361c2fc-3349-4568-9406-8cf4d7a943d0)
