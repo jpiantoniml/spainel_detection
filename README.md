@@ -16,6 +16,7 @@ Você poderá compartilhar o link do projeto público, arquivos do modelo treina
 
 ### Conjunto de imagens utilizado - Fonte: https://www.kaggle.com/datasets/pythonafroz/solarpanelhotspotimage
 
+
 (***você poderia incluir as informações sobre o número de imagens utilizadas e detalhes do conjunto de imagens***)
 
 
