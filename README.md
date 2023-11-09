@@ -1,6 +1,6 @@
 # Exemplo - Compartilhamento projeto Github
 
-Este repositório foi criado para demonstrar de forma prática como compartilhar um projeto de detecção de objetos desenvolvido na plataforma [Edge Impulse][https://pages.github.com/](https://edgeimpulse.com/)
+Este repositório foi criado para demonstrar de forma prática como compartilhar um projeto de detecção de objetos desenvolvido na plataforma [Edge Impulse][https://edgeimpulse.com/]
 
 Aqui poderá compartilhar o link do projeto público, arquivos do modelo treinado, informações sobre os dados utilizados, entre outros.
 
